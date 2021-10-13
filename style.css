@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+}
+
+.title{
+    margin-top: 40px;
+}
+
+.mypic{
+    border-radius: 50%;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+.education{
+    width: 300px;
+    float: left;
+    margin-left: 20%;
+}
+
+.hobbies{
+    width: 300px;
+    float: right;
+    margin-right: 20%;
+}
